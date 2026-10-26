@@ -9,7 +9,7 @@ The author assumes no responsibility for system instability, data loss, or misus
 
 ---
 
-## 🔬 Technical Behavior Analysis
+## Technical Behavior Analysis
 
 This research project isolates two specific mechanisms used by restrictive software (such as aggressive adware or system lockers) to control user real estate:
 
